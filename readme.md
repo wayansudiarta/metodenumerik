@@ -6,4 +6,4 @@ Semoga bermanfaat.
 
 ## Errata 
 
-Kesalahan ketik ditemukan di buku Metode Numerik diberikan pada file [](errata-buku-metode-numerik.pdf).
+Kesalahan ketik ditemukan di buku Metode Numerik diberikan pada file [errata-buku-metode-numerik.pdf](errata-buku-metode-numerik.pdf).
