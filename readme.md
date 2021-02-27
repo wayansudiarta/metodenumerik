@@ -1,6 +1,6 @@
 # Buku Metode Numerik
 
-Repositori ini merupakan situs penunjang atau sebagai tambahan untuk Buku Metode Numerik (I Wayan Sudiarta).
+Repositori ini merupakan situs penunjang atau sebagai tambahan untuk Buku Metode Numerik (I Wayan Sudiarta). Buku ini tersedia secara gratis di Google Books [Buku Metode Numerik](https://play.google.com/books/reader?id=FkMaEAAAQBAJ)
 
 Semoga bermanfaat.
 
